@@ -1,0 +1,2 @@
+# OSGITranslateAsslt
+Translate OSGi Demo
